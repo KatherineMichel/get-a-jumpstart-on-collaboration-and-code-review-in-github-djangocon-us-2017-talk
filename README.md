@@ -473,9 +473,6 @@ You can also create and work on branches through the command line in your local 
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
 ![Slide 26](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_26.jpg)
@@ -485,12 +482,9 @@ You can also create and work on branches through the command line in your local 
 ### The Two Collaborative Development Models
 
 A Collaborative Development Model is a fancy term for how users contribute to a repo. There are two different models. 
-
-The two Collaborative Development Models
 * "Shared Repository" Model
 * "Fork and Pull" Model
-
-The two different models typically correspond to the two different account types and which model you uses depends on whether you have write permission to the repo. 
+The two different models typically correspond to the two different account types and which model you uses depends on whether you have write permission to the repo.
 
 </td></tr>
 
@@ -521,6 +515,9 @@ There are two types of accounts
 When a user has write permission to a repo, it means they can make changes directly inside of the repo.
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">

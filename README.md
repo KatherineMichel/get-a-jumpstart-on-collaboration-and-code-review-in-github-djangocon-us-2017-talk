@@ -761,75 +761,13 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 ### Local Development Environment
 
-
-
-
 What I'm going to show you now is a generic process that you can use for a shared repository or a fork. You will clone the repo you have write permission to.
 
 Let's go back to the screenshot of my local development environment. 
-
 * I am working in my home directory. The name of home directory is at the top of the command line, and in front of the prompt. The reason why this matters is because the repo will be cloned into the directory we are working in.
 
-* I am going to type the command $ git clone into the command line and copy and paste the URL from the browser of either the shared repo or fork, then hit enter. 
-
-* A folder will appear in my home directory by the same name as the GitHub repo (2017.djangocon.us) and filled with the contents of the repo.  
-* I now have a copy of the code online in the GitHub repo and a copy in my local development environment. 
-
-* I will now change directory into the folder so that I can work there by typing cd 2017.djangocon.us, which is the folder name.
-
-* I've clicked on the folder in the folder window so that I can see the contents visually. But I can also see I am working from within the folder in my command line because the name of the folder is at the top of the command line and in front of the prompt. 
-
-* You can pull up your GitHub repo and your local folder and compare the files. You can see the corresponding files. The format will be slightly different between one set is being rendered in the browser, and another set are raw files. 
-
-* Use the command $ git branch to verify which branch you are checked out on; initially, you will be checkout out on the default branch (in this case master)
-
-* Create and checkout (switch) to a feature branch. We are calling this feature branch example-branch. We want to branch off of the branch we intend our changes to be merged into (note how the local files switch to the files of the branch you are checked out on, exactly the same at first, because a copy, but if you make a change in a branch and then switch back and forth between branches, you can see the difference)
-
-<!--
-* We created and checked-out to a branch by the name of example-branch
--->
-
-* Open a file in the text editor. Make your change and save it.
-
-* Add and commit our change to git version control, create a message "Creating branch and updating"
-
-* Push the new branch named example-branch to GitHub to your origin (the repo you cloned from that you have write permission to)
-
-
-<!--
-* I can push and pull the changes between the GitHub repo and our local development environment to keep them in sync
--->
-
-```bash
-$ git clone <repo-url>
-$ cd <repo-name>
-$ git branch
-$ git checkout -b <branch-name>
-$ git add .
-$ git commit -m "Your note"
-$ git push origin <branch-name>
-```
-
-```bash
-$ git clone https://github.com/djangocon/2017.djangocon.us
-or
-$ git clone https://github.com/KatherineMichel/2017.djangocon.us
-$ cd 2017.djangocon.us
-$ git branch
-$ git checkout -b example-branch
-$ git add .
-$ git commit -m "Creating branch and updating"
-$ git push origin example-branch
-```
-
-<!--
-Take the time to make sure your changes work
-Leave a clear commit message
--->
 
 </td></tr>
-
-
 
 
 <tr><td width="30%">
@@ -840,7 +778,9 @@ Leave a clear commit message
 
 ### Cloning
 
-Animation
+(Animation)
+
+* I am going to type the command $ git clone into the command line and copy and paste the URL from the browser of either the shared repo or fork, then hit enter. 
 
 </td></tr>
 
@@ -853,7 +793,10 @@ Animation
 
 ### Cloning
 
-Animation
+(Animation)
+
+* A folder will appear in my home directory by the same name as the GitHub repo (2017.djangocon.us) and filled with the contents of the repo. 
+* I now have a copy of the code online in the GitHub repo and a copy in my local development environment. 
 
 </td></tr>
 
@@ -866,7 +809,9 @@ Animation
 
 ### Changing Directory
 
-Animation
+(Animation)
+
+* I will now change directory into the folder so that I can work there by typing cd 2017.djangocon.us, which is the folder name.
 
 </td></tr>
 
@@ -879,7 +824,9 @@ Animation
 
 ### Changing Directory
 
-Animation
+(Animation)
+
+* I've clicked on the folder in the folder window so that I can see the contents visually. But I can also see I am working from within the folder in my command line because the name of the folder is at the top of the command line and in front of the prompt. 
 
 </td></tr>
 
@@ -892,7 +839,9 @@ Animation
 
 ### GitHub Repo Versus Local Directory
 
-Animation
+(Animation)
+
+* You can pull up your GitHub repo and your local folder and compare the files. You can see the corresponding files. The format will be slightly different between one set is being rendered in the browser, and another set are raw files. 
 
 </td></tr>
 
@@ -905,7 +854,9 @@ Animation
 
 ### Verifying Branch
 
-Animation
+(Animation)
+
+* Use the command $ git branch to verify which branch you are checked out on; initially, you will be checkout out on the default branch (in this case master)
 
 </td></tr>
 
@@ -918,7 +869,9 @@ Animation
 
 ### Creating a New Branch
 
-Animation
+(Animation)
+
+* Create and checkout (switch) to a feature branch. We are calling this feature branch example-branch. We want to branch off of the branch we intend our changes to be merged into (note how the local files switch to the files of the branch you are checked out on, exactly the same at first, because a copy, but if you make a change in a branch and then switch back and forth between branches, you can see the difference)
 
 </td></tr>
 
@@ -931,7 +884,9 @@ Animation
 
 ### Working on a File Locally
 
-Animation
+(Animation)
+
+* Open a file in the text editor. Make your change and save it.
 
 </td></tr>
 
@@ -944,7 +899,9 @@ Animation
 
 ### Adding and Committing
 
-Animation
+(Animation)
+
+* Add and commit our change to git version control, create a message "Creating branch and updating"
 
 </td></tr>
 
@@ -957,9 +914,20 @@ Animation
 
 ### Pushing
 
-Animation
+(Animation)
+
+* Push the new branch named example-branch to GitHub to your origin (the repo you cloned from that you have write permission to)
 
 </td></tr>
+
+
+
+
+
+
+
+
+
 
 
 <tr><td width="30%">

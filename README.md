@@ -1029,8 +1029,6 @@ Underneath that will be info about how to merge the pull request.
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
 ![Slide 63](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_63.jpg)
@@ -1039,8 +1037,7 @@ Underneath that will be info about how to merge the pull request.
 
 ### Pull Request Command Line
 
-When you click on that link, it will open up a set of instructions for how to review and merge the pull request in your local development environment. The instructions will be different depending on whether the pull request was submitted from within the shared repository or from a forked repo.  
-I will go over that in a minute. 
+When you click on that link, it will open up a set of instructions for how to review and merge the pull request in your local development environment. The instructions will be different depending on whether the pull request was submitted from within the shared repository or from a forked repo.   
 
 I will go over that in a minute. 
 
@@ -1083,6 +1080,7 @@ If a change needs to be made, you can
 * Make the change locally yourself, merge the branch with the branch it is intended to be merged with locally, and push to the branch on GitHub
 
 </td></tr>
+
 
 
 <tr><td width="30%">

@@ -85,7 +85,7 @@ Thank you!
 
 <tr><td width="30%">
 
-![Slide 1](https://drive.google.com/drive/u/0/folders/0B02bpu7HZwJRd3lZMXIzclQ3YWc)
+![Slide 1](https://drive.google.com/file/d/0B02bpu7HZwJRTVdqek9PUHZObGM/view?usp=sharing)
 
 </td><td>
 

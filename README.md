@@ -3,16 +3,16 @@
 <!--
 https://2017.djangocon.us/speaking/speaker-resources/#slide-guidelines
 https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit#slide=id.g20735b3908_0_0
--->
 
-This is a transcript of a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give at [DjangoCon](https://2017.djangocon.us), [PyLadies Remote](http://remote.pyladies.com), and other events.
-
-© 2017 Katherine Michel. All Rights Reserved.
-
-<!--
 * [Original slide deck]()
 * [Video recording]()
+
+I, you, we
 -->
+
+Script and slides for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon](https://2017.djangocon.us).
+
+© 2017 Katherine Michel. All Rights Reserved.
 
 ## Attribution
 
@@ -83,13 +83,9 @@ Thank you!
 <table>
 
 
-<!--
-I, you, we
--->
-
 <tr><td width="30%">
 
-![Slide 1]()
+![Slide 1](slides/slide-1.png)
 
 </td><td>
 

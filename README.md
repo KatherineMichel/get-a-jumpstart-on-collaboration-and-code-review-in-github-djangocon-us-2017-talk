@@ -729,7 +729,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 41]()
+![Slide 40](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_40.jpg)
 
 </td><td>
 
@@ -742,7 +742,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 42]()
+![Slide 41](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_41.jpg)
 
 </td><td>
 
@@ -755,7 +755,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 43]()
+![Slide 42](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_42.jpg)
 
 </td><td>
 
@@ -768,7 +768,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 44]()
+![Slide 43](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_43.jpg)
 
 </td><td>
 
@@ -786,7 +786,7 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 <tr><td width="30%">
 
-![Slide 45]()
+![Slide 44](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_44.jpg)
 
 </td><td>
 
@@ -799,7 +799,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 46]()
+![Slide 45](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_45.jpg)
 
 </td><td>
 
@@ -815,7 +815,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 47]()
+![Slide 46](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_46.jpg)
 
 </td><td>
 
@@ -891,7 +891,7 @@ Leave a clear commit message
 
 <tr><td width="30%">
 
-![Slide 48]()
+![Slide 47](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_47.jpg)
 
 </td><td>
 
@@ -904,7 +904,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 49]()
+![Slide 48](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_48.jpg)
 
 </td><td>
 
@@ -917,7 +917,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 50]()
+![Slide 49](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_49.jpg)
 
 </td><td>
 
@@ -930,7 +930,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 51]()
+![Slide 50](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_50.jpg)
 
 </td><td>
 
@@ -943,7 +943,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 52]()
+![Slide 51](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_51.jpg)
 
 </td><td>
 
@@ -956,7 +956,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 53]()
+![Slide 52](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_52.jpg)
 
 </td><td>
 
@@ -969,7 +969,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 54]()
+![Slide 53](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_53.jpg)
 
 </td><td>
 
@@ -982,7 +982,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 55]()
+![Slide 54](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_54.jpg)
 
 </td><td>
 
@@ -995,7 +995,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 56]()
+![Slide 55](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_55.jpg)
 
 </td><td>
 
@@ -1008,7 +1008,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 57]()
+![Slide 56](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_56.jpg)
 
 </td><td>
 
@@ -1021,7 +1021,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 58]()
+![Slide 57](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_57.jpg)
 
 </td><td>
 
@@ -1034,7 +1034,7 @@ There will now be a new branch in the repo that is your origin and a message tel
 
 <tr><td width="30%">
 
-![Slide 59]()
+![Slide 58](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_58.jpg)
 
 </td><td>
 
@@ -1047,7 +1047,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 60]()
+![Slide 59](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_59.jpg)
 
 </td><td>
 
@@ -1067,7 +1067,7 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 <tr><td width="30%">
 
-![Slide 61]()
+![Slide 60](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_60.jpg)
 
 </td><td>
 
@@ -1080,7 +1080,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 62]()
+![Slide 61](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_61.jpg)
 
 </td><td>
 
@@ -1095,7 +1095,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 63]()
+![Slide 62](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_62.jpg)
 
 </td><td>
 
@@ -1114,7 +1114,7 @@ Underneath that will be info about how to merge the pull request.
 
 <tr><td width="30%">
 
-![Slide 64]()
+![Slide 63](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_63.jpg)
 
 </td><td>
 
@@ -1127,7 +1127,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 65]()
+![Slide 64](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_64.jpg)
 
 </td><td>
 
@@ -1143,7 +1143,7 @@ I will go over that in a minute.
 
 <tr><td width="30%">
 
-![Slide 66]()
+![Slide 65](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_65.jpg)
 
 </td><td>
 
@@ -1160,7 +1160,7 @@ The first two options involve clicking the merge button in GitHub without runnin
 
 <tr><td width="30%">
 
-![Slide 67]()
+![Slide 66](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_66.jpg)
 
 </td><td>
 
@@ -1181,7 +1181,7 @@ If a change needs to be made, you can
 
 <tr><td width="30%">
 
-![Slide 68]()
+![Slide 67](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_67.jpg)
 
 </td><td>
 
@@ -1200,7 +1200,7 @@ Branches made through a fork need to be pulled individually into our local devel
 
 <tr><td width="30%">
 
-![Slide 69]()
+![Slide 68](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_68.jpg)
 
 </td><td>
 
@@ -1241,7 +1241,7 @@ Push after changes are made and committed
 
 <tr><td width="30%">
 
-![Slide 70]()
+![Slide 69](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_69.jpg)
 
 </td><td>
 
@@ -1262,7 +1262,7 @@ $ git push origin master
 
 <tr><td width="30%">
 
-![Slide 71]()
+![Slide 70](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_70.jpg)
 
 </td><td>
 
@@ -1278,7 +1278,7 @@ $ git push origin master
 
 <tr><td width="30%">
 
-![Slide 72]()
+![Slide 71](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_71.jpg)
 
 </td><td>
 
@@ -1291,7 +1291,7 @@ My first recommendation is that you go to the Useful Resources Section, follow t
 
 <tr><td width="30%">
 
-![Slide 73]()
+![Slide 72](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_72.jpg)
 
 </td><td>
 
@@ -1305,7 +1305,7 @@ My second recommendation is that if you have the authority, go into a repo’s S
 
 <tr><td width="30%">
 
-![Slide 74]()
+![Slide 73](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_73.jpg)
 
 </td><td>
 
@@ -1320,7 +1320,7 @@ My third recommendation is that when you are looking for a project to contribute
 
 <tr><td width="30%">
 
-![Slide 75]()
+![Slide 74](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_74.jpg)
 
 </td><td>
 
@@ -1335,7 +1335,7 @@ My fourth recommendation is that you
 
 <tr><td width="30%">
 
-![Slide 76]()
+![Slide 75](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_75.jpg)
 
 </td><td>
 
@@ -1349,7 +1349,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 
 <tr><td width="30%">
 
-![Slide 77]()
+![Slide 76](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_76.jpg)
 
 </td><td>
 

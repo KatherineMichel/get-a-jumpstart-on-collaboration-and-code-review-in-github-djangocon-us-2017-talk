@@ -1,5 +1,14 @@
 # Get a Jumpstart on Collaboration and Code Review in GitHub- DjangoCon 2017
 
+# Table of Contents
+
+- [About](#about)
+- [Attribution](#attribution)
+- [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
+- [Useful Resources](#useful-resources)
+
+## About
+
 Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon 2017](https://2017.djangocon.us).
 
 * [Original slide deck](https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit?usp=sharing)
@@ -17,9 +26,7 @@ The style of this transcript is heavily inspired by:
 
 Thank you!
 
-## Table of Contents
-
-## Slides and Script
+### Slides and Script Table of Contents
 
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Welcome](#welcome)
@@ -72,6 +79,7 @@ Thank you!
 - [Sandboxing](#sandboxing)
 - [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
+
 
 <table>
 

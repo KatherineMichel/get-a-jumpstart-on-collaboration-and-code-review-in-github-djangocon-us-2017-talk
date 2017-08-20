@@ -10,6 +10,24 @@ https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6
 I, you, we
 
 Engineer
+
+### About Me 
+
+* DjangoCon Website Chair
+* DEFNA (Django Events Foundation North America) Board Member
+* Project Manager
+* Designer and Developer
+-->
+
+<!--
+DjangoCon US Website Homepage
+DjangoCon US Website Repo
+-->
+
+<!--
+* By the way, some tasks vary by operating system- check tabs at the top of GitHub Help pages for special OS instructions
+* Not all operating systems use the dollar sign as a command line prompt. Just be aware of that
+* <variable> is a placeholder for the real thing
 -->
 
 Script and slides for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon](https://2017.djangocon.us).
@@ -29,7 +47,6 @@ Thank you!
 
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Welcome](#welcome)
-- [About Me](#about-me)
 - [Goal](#goal)
 - [Announcing TacoFancy](#announcing-tacofancy)
 - [The One Sentence that Motivated Me to Start Using GitHub](#the-one-sentence-that-motivated-me-to-start-using-github)
@@ -111,22 +128,6 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 </td></tr>
 
 
-<!--
-<tr><td width="30%">
-
-</td><td>
-
-### About Me 
-
-* DjangoCon Website Chair
-* DEFNA (Django Events Foundation North America) Board Member
-* Project Manager
-* Designer and Developer
-
-</td></tr>
--->
-
-
 <tr><td width="30%">
 
 ![Slide 2](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_2.jpg)
@@ -135,13 +136,10 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 
 ### Goal
 
-I want to teach you a process that will get you started collaborating and doing code review as quickly as possible. 
-
-I'm going to be showing you a lot of screenshots and diagrams, because I want you to understand what the process looks like. 
-
-But don’t worry if you miss anything, because at the end of my talk, there will be a slide with a link to Useful Resources where you will find documentation and all of the commands I will be showing you today. 
-
-My slides and a video of my talk will also be online later.
+* I want to teach you a process that will get you started collaborating and doing code review as quickly as possible. 
+* I'm going to be showing you a lot of screenshots and diagrams, because I want you to understand what the process looks like.
+* But don’t worry if you miss anything, because at the end of my talk, there will be a slide with a link to Useful Resources where you will find documentation and all of the commands I will be showing you today. 
+* My slides and a video of my talk will also be online later.
 
 </td></tr>
 
@@ -154,13 +152,10 @@ My slides and a video of my talk will also be online later.
 
 ### Announcing TacoFancy
 
-I want to tell you how I got started with open-source contribution, which I think will show you there are many ways to get involved. 
-
-I first signed up for GitHub in April 2013. But my account sat unused for 7 months. I didn't know how to get started.  
-
-I happened to be looking at Twitter. I saw a tweet from a man named Dan Sinker. He had made a really delicious taco meal and decided to start a project on GitHub to share taco recipes. 
-
-So I clicked on the link and went to the project to take a look. 
+* I want to tell you how I got started with open-source contribution, which I think will show you there are many ways to get involved. 
+* I first signed up for GitHub in April 2013. But my account sat unused for 7 months. I didn't know how to get started.  
+* I happened to be looking at Twitter. I saw a tweet from a man named Dan Sinker. He had made a really delicious taco meal and decided to start a project on GitHub to share taco recipes. 
+* So I clicked on the link and went to the project to take a look. 
 
 </td></tr>
 
@@ -199,23 +194,14 @@ That was me. I became very determined to contribute and submitted my first pull 
 
 ### DjangoCon US Website as Example Project
 
-I kept using Git and GitHub and getting better at it. I eventually became a DjangoCon US websitie contributor in 2016, then became the Website Chair and maintainer in 2017. 
-
-I am going to use DjangoCon US website as an example throughout this talk. 
-
-<!--
-DjangoCon US Website Homepage
-DjangoCon US Website Repo
--->
+I kept using Git and GitHub and getting better at it. I eventually became a DjangoCon US website contributor in 2016, then became the Website Chair and maintainer in 2017. 
+* I am going to use DjangoCon US website as an example throughout this talk. 
 
 </td></tr>
 
 
-<!--
-* By the way, some tasks vary by operating system- check tabs at the top of GitHub Help pages for special OS instructions
-* Not all operating systems use the dollar sign as a command line prompt. Just be aware of that
-* <variable> is a placeholder for the real thing
--->
+
+
 
 
 <tr><td width="30%">

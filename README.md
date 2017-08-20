@@ -1170,8 +1170,6 @@ $ git push origin master
 </td><td>
 
 
-
-
 <tr><td width="30%">
 
 ![Slide 70](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_70.jpg)

@@ -414,10 +414,6 @@ But both feature branches (a.k.a. topic branches) and pull request branches are 
 </td></tr>
 
 
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 22](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_22.jpg)
@@ -426,9 +422,7 @@ But both feature branches (a.k.a. topic branches) and pull request branches are 
 
 ### How to Create a Branch
 
-Let's go back to the screenshot of editing a file in GitHub. There is a radial button you can choose to indicate you want to create a new branch. There is also a place to give the branch a new name. When you click to save the changes, they will not save in the current file. Instead, a new branch will be created. 
-
-You can also create and work on branches through the command line in your local development environment, which I will show you later. 
+Let's go back to the screenshot of editing a file in GitHub. 
 
 </td></tr>
 
@@ -441,7 +435,11 @@ You can also create and work on branches through the command line in your local 
 
 ### How to Create a Branch
 
-Animation
+(Animation)
+
+There is a radial button you can choose to indicate you want to create a new branch. There is also a place to give the branch a new name. When you click to save the changes, they will not save in the current file. Instead, a new branch will be created. 
+
+You can also create and work on branches through the command line in your local development environment, which I will show you later. 
 
 </td></tr>
 
@@ -473,6 +471,9 @@ Animation
 * Determine which collaboration approach to use (there are two)
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">

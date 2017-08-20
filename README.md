@@ -517,9 +517,6 @@ When a user has write permission to a repo, it means they can make changes direc
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
 ![Slide 29](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_29.jpg)
@@ -530,14 +527,6 @@ When a user has write permission to a repo, it means they can make changes direc
 
 First, we’ll look at the “Shared Repository” Model. A shared repository is typically found in an organization account, which makes sense when you think about the word shared.
 * For example, this year I became a maintainer of the DjangoCon US website, so I was given write permission to the DjangoCon US website repo, which is a “Shared Repository”. Along with the other maintainers I work with who have write permission, I can make changes directly within the DjangoCon US website repo.
-
-The “Fork and Pull” Model is typically used in user account repos. For example, when I first came across the DjangoCon US website repo, I wanted to contribute, but I was not a maintainer, so I didn't have write permission. So I made a copy (a.k.a. fork) of the DjangoCon US website repo in my user account, which I have write permission to, made a change, and submitted a pull request to the Django US website repo. 
-
-<!--
-When a maintainer approved the pull request, the changes were pulled from the fork into the DjangoCon US website repo.
-If I submit a pull request and it is accepted, the changes will be pulled into the repo they are intended for.
-* Occassionally one of us will submit a pull request for our changes to be pulled into the GitHub repo we are working on. 
--->
 
 </td></tr>
 
@@ -550,7 +539,9 @@ If I submit a pull request and it is accepted, the changes will be pulled into t
 
 ### Write Permission and Collaboration Examples
 
-Animation
+(Animation)
+
+The “Fork and Pull” Model is typically used in user account repos. For example, when I first came across the DjangoCon US website repo, I wanted to contribute, but I was not a maintainer, so I didn't have write permission. So I made a copy (a.k.a. fork) of the DjangoCon US website repo in my user account, which I have write permission to, made a change, and submitted a pull request to the Django US website repo. 
 
 </td></tr>
 
@@ -564,9 +555,8 @@ Animation
 ### How to Fork a Repo
 
 We've gone to the DjangoCon US website repo. 
-
 * Click the "Fork" button
-* Try to edit a file in a repository that you do not have write permission to. GitHub will automatically fork the repo to your user account. There will be a message notifying you that it is being forked.
+* Try to edit a file in a repository that you do not have write permission to. GitHub will automatically fork the repo to your user account. 
 
 </td></tr>
 
@@ -579,9 +569,14 @@ We've gone to the DjangoCon US website repo.
 
 ### How to Fork a Repo
 
-Animation
+(Animation)
+
+There will be a message notifying you that it is being forked.
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">

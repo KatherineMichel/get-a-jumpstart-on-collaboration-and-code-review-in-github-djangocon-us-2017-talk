@@ -7,14 +7,16 @@
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
 - [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
-
+    - [Links](#links)    
+    - [Bash Commands](#bash-commands)
+    - [Local Development](#local-development)
+    
 <!--
-### Links
-### Bash Commands
-### Local Development
 ### Review Shared Repo Pull Request
 ### Merge Pull Request Locally and Push to Master Branch
 -->
+
+<hr>
 
 ## About
 
@@ -22,6 +24,10 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 
 * [Original slide deck](https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit?usp=sharing)
 * Video recording: Coming soon!
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 ## Attribution
 
@@ -31,6 +37,10 @@ The style of this transcript is heavily inspired by:
 * Honza Javorek's ([Twitter](https://twitter.com/honzajavorek), [GitHub](https://github.com/honzajavorek)) transcript of Anna Ossowski's ([Twitter](https://twitter.com/OssAnna16), [GitHub](https://github.com/OssAnna16)) keynote [Be(Come) A Mentor! Help Others Succeed!](https://github.com/honzajavorek/become-mentor) for [PyCon CZ 2017](https://cz.pycon.org/2017/). 
 
 Thank you!
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 ## Slides and Script Table of Contents
 
@@ -86,11 +96,13 @@ Thank you!
 - [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ## Slides and Script
 
-
 <table>
-
 
 <tr><td width="30%">
 
@@ -1275,8 +1287,11 @@ https://git.io/v7LGr
 
 </td></tr>
 
-
 </table>
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 ## Useful Resources
 
@@ -1333,6 +1348,10 @@ Documentation
 Recovering a Deleted Branch
 * [Can I Recover Branch After its Deletion in Git?](https://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git)
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ### Bash Commands
 
 Go to the home directory
@@ -1359,6 +1378,10 @@ Move back a directory
 $ cd ..
 ```
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ### Local Development
 
 ```bash
@@ -1370,6 +1393,10 @@ $ git add .
 $ git commit -m "Your note"
 $ git push origin <branch-name>
 ```
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 ### Review Shared Repo Pull Request
 
@@ -1383,6 +1410,10 @@ $ git merge master
 $ git push origin <branch-name> 
 ```
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ### Review Forked Repo Pull Request
 
 ```bash
@@ -1394,6 +1425,10 @@ $ git pull https://github.com/<user-name>/<repo-name> <branch-name>
 $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 ```
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
+
 ### Merge Pull Request Locally and Push to Master Branch
 
 ```bash
@@ -1401,5 +1436,9 @@ $ git checkout master
 $ git merge --no-ff <branch-name>
 $ git push origin master
 ```
+
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
+<hr>
 
 © 2017 Katherine Michel. All Rights Reserved.

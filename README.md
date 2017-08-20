@@ -68,6 +68,7 @@ Thank you!
 - [Safety](#safety)
 - [Triaging](#triaging)
 - [Sandboxing](#sandboxing)
+- [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
 
 

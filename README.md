@@ -944,6 +944,28 @@ Let's go back to the screenshot of my local development environment.
 
 * Push the new branch named example-branch to GitHub to your origin (the repo you cloned from that you have write permission to)
 
+```bash
+$ git clone <repo-url>
+$ cd <repo-name>
+$ git branch
+$ git checkout -b <branch-name>
+$ git add .
+$ git commit -m "Your note"
+$ git push origin <branch-name>
+```
+
+```bash
+$ git clone https://github.com/djangocon/2017.djangocon.us
+or
+$ git clone https://github.com/KatherineMichel/2017.djangocon.us
+$ cd 2017.djangocon.us
+$ git branch
+$ git checkout -b example-branch
+$ git add .
+$ git commit -m "Creating branch and updating"
+$ git push origin example-branch
+```
+
 </td></tr>
 
 

@@ -708,8 +708,6 @@ Git will track some details about the project, for instance, where we cloned our
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
 ![Slide 42](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_42.jpg)
@@ -719,11 +717,6 @@ Git will track some details about the project, for instance, where we cloned our
 ### Shared Repository Model
 
 Here's what it looks like when we use the "Shared Repository" Model
-
-* The fork is not needed, because we have write permission
-* Clone the shared repository. The shared repository will now be the remote "origin"
-* Make our changes, push the changes back to the shared repository
-* Submit the pull request
 
 </td></tr>
 
@@ -736,7 +729,10 @@ Here's what it looks like when we use the "Shared Repository" Model
 
 ### Shared Repository Model
 
-Animation
+(Animation)
+
+* The fork is not needed, because we have write permission
+* Clone the shared repository. The shared repository will now be the remote "origin"
 
 </td></tr>
 
@@ -749,12 +745,12 @@ Animation
 
 ### Shared Repository Model
 
-Animation
+(Animation)
+
+* Make our changes, push the changes back to the shared repository
+* Submit the pull request
 
 </td></tr>
-
-
-
 
 
 <tr><td width="30%">
@@ -764,6 +760,9 @@ Animation
 </td><td>
 
 ### Local Development Environment
+
+
+
 
 What I'm going to show you now is a generic process that you can use for a shared repository or a fork. You will clone the repo you have write permission to.
 

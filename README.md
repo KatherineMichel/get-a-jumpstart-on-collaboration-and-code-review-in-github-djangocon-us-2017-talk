@@ -921,15 +921,6 @@ Let's go back to the screenshot of my local development environment.
 </td></tr>
 
 
-
-
-
-
-
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 56](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_56.jpg)
@@ -938,7 +929,7 @@ Let's go back to the screenshot of my local development environment.
 
 ### New Branch
 
-There will now be a new branch in the repo that is your origin and a message telling you it's there. If you click on the branch tab you can choose the name of the branch to switch to the new branch. You can toggle back and forth between the branches by clicking on the branches in the branches tab. 
+There will now be a new branch in the repo that is your origin and a message telling you it's there. If you click on the branch tab you can choose the name of the branch to switch to the new branch. 
 
 </td></tr>
 
@@ -951,7 +942,9 @@ There will now be a new branch in the repo that is your origin and a message tel
 
 ### New Branch
 
-Animation 
+(Animation)
+
+You can toggle back and forth between the branches by clicking on the branches in the branches tab. 
 
 </td></tr>
 
@@ -966,13 +959,6 @@ Animation
 
 Go to the repo you want your pull request to be merged into, in this case, the DjangoCon US website repo. There will also be a message here telling you about the branch and suggesting that you submit a pull request, even if the branch is in a fork, because GitHub will detect it. Click on the "Compare & pull request" button. 
 
-* Make sure that the base branch is the branch you want your change to be merged into
-* Make sure compare branch is your branch
-* Create a pull request title and perhaps a description
-* If the pull request is via a forked repo, a box will be checked by default giving maintainers the ability to edit the pull request 
-* Double check your changes
-* Click "Create pull request"
-
 </td></tr>
 
 
@@ -984,9 +970,18 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 
 ### Submit a Pull Request
 
-Animation
+(Animation)
+
+* Make sure that the base branch is the branch you want your change to be merged into
+* Make sure compare branch is your branch
+* Create a pull request title and perhaps a description
+* If the pull request is via a forked repo, a box will be checked by default giving maintainers the ability to edit the pull request 
+* Double check your changes
+* Click "Create pull request"
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">

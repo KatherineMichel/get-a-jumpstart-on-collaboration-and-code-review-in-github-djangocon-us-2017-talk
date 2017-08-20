@@ -85,7 +85,7 @@ Thank you!
 
 <tr><td width="30%">
 
-![Slide 1](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_0.jpg)
+![Slide 0](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_0.jpg)
 
 </td><td>
 
@@ -98,7 +98,7 @@ By Katherine "Kati" Michel
 
 <tr><td width="30%">
 
-![Slide 2]()
+![Slide 1](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_1.jpg)
 
 </td><td>
 
@@ -111,7 +111,7 @@ Welcome, everyone. I'm Kati Michel. I'm thrilled to have the opportunity to teac
 
 <tr><td width="30%">
 
-![Slide 3]()
+![Slide 2](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_2.jpg)
 
 </td><td>
 
@@ -131,7 +131,7 @@ Engineer
 
 <tr><td width="30%">
 
-![Slide 4]()
+![Slide 3](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_3.jpg)
 
 </td><td>
 
@@ -150,7 +150,7 @@ My slides and a video of my talk will also be online later.
 
 <tr><td width="30%">
 
-![Slide 5]()
+![Slide 4](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_4.jpg)
 
 </td><td>
 
@@ -169,7 +169,7 @@ So I clicked on the link and went to the project to take a look.
 
 <tr><td width="30%">
 
-![Slides 6]()
+![Slide 5](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_5.jpg)
 
 </td><td>
 
@@ -182,7 +182,7 @@ One sentence in the project information that had a huge impact on me: "Are You N
 
 <tr><td width="30%">
 
-![Slide 7]()
+![Slide 6](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_6.jpg)
 
 </td><td>
 
@@ -195,7 +195,7 @@ That was me. I became very determined to contribute and submitted my first pull 
 
 <tr><td width="30%">
 
-![Slide 8]()
+![Slide 7](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_7.jpg)
 
 </td><td>
 
@@ -222,7 +222,7 @@ DjangoCon US Website Repo
 
 <tr><td width="30%">
 
-![Slide 9]()
+![Slide 8](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_8.jpg)
 
 </td><td>
 
@@ -240,7 +240,7 @@ Git command line- verifying Git is installed and the version
 
 <tr><td width="30%">
 
-![Slide 10]()
+![Slide 9](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_9.jpg)
 
 </td><td>
 
@@ -257,7 +257,7 @@ GitHub is a social network. You can:
 
 <tr><td width="30%">
 
-![Slide 11]()
+![Slide 10](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_10.jpg)
 
 </td><td>
 
@@ -277,7 +277,7 @@ DjangoCon US Website Repo
 
 <tr><td width="30%">
 
-![Slide 12]()
+![Slide 11](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_11.jpg)
 
 </td><td>
 
@@ -290,7 +290,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 13]()
+![Slide 12](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_12.jpg)
 
 </td><td>
 
@@ -303,7 +303,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 14]()
+![Slide 13](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_13.jpg)
 
 </td><td>
 
@@ -329,7 +329,7 @@ Here is a screenshot of my local development environment.
 
 <tr><td width="30%">
 
-![Slide 15]()
+![Slide 14](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_14.jpg)
 
 </td><td>
 

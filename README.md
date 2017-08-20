@@ -87,7 +87,7 @@ I, you, we
 
 <tr><td width="30%">
 
-![Slide 1](https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit#slide=id.g23e8e3b7f8_0_0)
+![Slide 1](https://speakerdeck.com/katherinemichel/get-a-jumpstart-on-collaboration-and-code-review-in-github?slide=1)
 
 </td><td>
 

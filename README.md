@@ -8,8 +8,6 @@ Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.
 * [Video recording]()
 -->
 
-© 2017 Katherine Michel. All Rights Reserved.
-
 ## Attribution
 
 The style of this transcript is heavily inspired by:
@@ -663,10 +661,6 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 </td></tr>
 
 
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 39](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_39.jpg)
@@ -675,22 +669,11 @@ I've made a couple of diagrams that I hope will give you an idea of what the pro
 
 ### Fork and Pull Model
 
-Animation
-
-
-
+(Animation)
 
 * Clone the fork. 
 
 Git will track some details about the project, for instance, where we cloned our code from. In relation to the clone, the GitHub repo we cloned from is now a remote repo and Git will assign the name "origin" to it. We can use the name origin in the command line to refer to the repo so we can push and pull changes back and forth between the local development environment and the GitHub repo.
-
-* Make our changes, push the changes back to the fork
-* Submit the pull request
-
-<!--
-The GitHub repo does not automatically update when we make a change locally and vice versa. We have to update it.
--->
-
 
 </td></tr>
 
@@ -703,7 +686,9 @@ The GitHub repo does not automatically update when we make a change locally and 
 
 ### Fork and Pull Model
 
-Animation
+(Animation)
+
+* Make our changes, push the changes back to the fork
 
 </td></tr>
 
@@ -716,9 +701,13 @@ Animation
 
 ### Fork and Pull Model
 
-Animation
+(Animation)
+
+* Submit the pull request
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">

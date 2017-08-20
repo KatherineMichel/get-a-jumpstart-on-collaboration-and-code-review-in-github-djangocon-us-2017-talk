@@ -342,7 +342,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 16]()
+![Slide 15](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_15.jpg)
 
 </td><td>
 
@@ -355,7 +355,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 17]()
+![Slide 16](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_16.jpg)
 
 </td><td>
 
@@ -373,7 +373,7 @@ In order to be able to increase your level of responsibility, we need to have th
 
 <tr><td width="30%">
 
-![Slide 18]()
+![Slide 17](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_17.jpg)
 
 </td><td>
 
@@ -390,7 +390,7 @@ There is a way to make changes that enables you to switch between multiple tasks
 
 <tr><td width="30%">
 
-![Slide 19]()
+![Slide 18](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_18.jpg)
 
 </td><td>
 
@@ -413,7 +413,7 @@ But both feature branches (a.k.a. topic branches) and pull request branches are 
 
 <tr><td width="30%">
 
-![Slide 20]()
+![Slide 19](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_19.jpg)
 
 </td><td>
 
@@ -426,7 +426,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 21]()
+![Slide 20](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_20.jpg)
 
 </td><td>
 
@@ -439,7 +439,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 22]()
+![Slide 21](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_21.jpg)
 
 </td><td>
 
@@ -452,7 +452,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 23]()
+![Slide 22](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_22.jpg)
 
 </td><td>
 
@@ -465,7 +465,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 24]()
+![Slide 23](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_23.jpg)
 
 </td><td>
 
@@ -480,7 +480,7 @@ You can also create and work on branches through the command line in your local 
 
 <tr><td width="30%">
 
-![Slide 25]()
+![Slide 24](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_24.jpg)
 
 </td><td>
 
@@ -493,7 +493,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 26]()
+![Slide 25](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_25.jpg)
 
 </td><td>
 
@@ -509,7 +509,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 27]()
+![Slide 26](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_26.jpg)
 
 </td><td>
 
@@ -522,7 +522,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 28]()
+![Slide 27](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_27.jpg)
 
 </td><td>
 
@@ -541,7 +541,7 @@ The two different models typically correspond to the two different account types
 
 <tr><td width="30%">
 
-![Slide 29]()
+![Slide 28](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_28.jpg)
 
 </td><td>
 
@@ -556,7 +556,7 @@ There are two types of accounts
 
 <tr><td width="30%">
 
-![Slide 30]()
+![Slide 29](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_29.jpg)
 
 </td><td>
 
@@ -569,7 +569,7 @@ When a user has write permission to a repo, it means they can make changes direc
 
 <tr><td width="30%">
 
-![Slide 31]()
+![Slide 30](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_30.jpg)
 
 </td><td>
 
@@ -591,7 +591,7 @@ If I submit a pull request and it is accepted, the changes will be pulled into t
 
 <tr><td width="30%">
 
-![Slide 32]()
+![Slide 31](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_31.jpg)
 
 </td><td>
 
@@ -604,7 +604,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 33]()
+![Slide 32](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_32.jpg)
 
 </td><td>
 
@@ -620,7 +620,7 @@ We've gone to the DjangoCon US website repo.
 
 <tr><td width="30%">
 
-![Slide 34]()
+![Slide 33](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_33.jpg)
 
 </td><td>
 
@@ -633,7 +633,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 35]()
+![Slide 34](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_34.jpg)
 
 </td><td>
 
@@ -651,7 +651,7 @@ The fork is an exact copy of the original repo at the time it was forked. I coul
 
 <tr><td width="30%">
 
-![Slide 36]()
+![Slide 35](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_35.jpg)
 
 </td><td>
 
@@ -664,7 +664,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 37]()
+![Slide 36](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_36.jpg)
 
 </td><td>
 
@@ -677,7 +677,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 38]()
+![Slide 37](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_37.jpg)
 
 </td><td>
 
@@ -691,7 +691,7 @@ Animation
 
 <tr><td width="30%">
 
-![Slide 39]()
+![Slide 38](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_38.jpg)
 
 </td><td>
 
@@ -716,7 +716,7 @@ The GitHub repo does not automatically update when we make a change locally and 
 
 <tr><td width="30%">
 
-![Slide 40]()
+![Slide 39](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_39.jpg)
 
 </td><td>
 

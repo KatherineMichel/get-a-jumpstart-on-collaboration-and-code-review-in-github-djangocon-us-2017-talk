@@ -275,9 +275,6 @@ If you click on the hyperlink, it will open up the repo and you will see the fol
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
 ![Slide 12](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_12.jpg)
@@ -287,19 +284,11 @@ If you click on the hyperlink, it will open up the repo and you will see the fol
 ### Local Dev Environment
 
 When we are working on code, we can't do everything in the GitHub website. 
-
-For example, we might want to make a copy of the DjangoCon US website code in the local development environment of our computer, install the necessary software, and run the code in a local browser so that you can add a feature to it, or test a pull request branch.
-
-There is where Git is very useful. Git is installed in our local development environment and used in the command line of your computer. You can use Git to make a snapshot of your project at any point in time and revert back if needed.
-
-Here is a screenshot of my local development environment.
-
+* For example, we might want to make a copy of the DjangoCon US website code in the local development environment of our computer, install the necessary software, and run the code in a local browser so that you can add a feature to it, or test a pull request branch.
+* There is where Git is very useful. Git is installed in our local development environment and used in the command line of your computer. You can use Git to make a snapshot of your project at any point in time and revert back if needed.
+* Here is a screenshot of my local development environment.
 * In the background I have GitHub open in the browser
 * In front of that, I have my local folder window and my command line
-
-* I can use the web address (URL) from the GitHub repo in the command line to create a copy of the repo in my local development environment. Making a copy of a repo locally is called cloning.
-* I can make changes and push the changes back to GitHub. 
-* Meanwhile, other users can do the same thing on their computers.
 
 </td></tr>
 
@@ -312,7 +301,9 @@ Here is a screenshot of my local development environment.
 
 ### Local Dev Environment
 
-Animation
+(Animation)
+
+* I can use the web address (URL) from the GitHub repo in the command line to create a copy of the repo in my local development environment. Making a copy of a repo locally is called cloning.
 
 </td></tr>
 
@@ -325,7 +316,12 @@ Animation
 
 ### Local Dev Environment
 
-Animation
+(Animation)
+
+* I can make changes and push the changes back to GitHub. 
+* Meanwhile, other users can do the same thing on their computers.
+
+I will elaborate on this process later.
 
 </td></tr>
 
@@ -346,6 +342,10 @@ In order to be able to increase your level of responsibility, we need to have th
 * Do code review
 
 </td></tr>
+
+
+
+
 
 
 <tr><td width="30%">

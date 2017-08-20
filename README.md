@@ -982,8 +982,6 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 </td></tr>
 
 
-
-
 <tr><td width="30%">
 
 ![Slide 60](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_60.jpg)
@@ -1011,10 +1009,6 @@ Go to the repo you want your pull request to be merged into, in this case, the D
 * Follow the link to the pull request tab in the browser
 * Look over the information about the pull request. You can see the title and description and click on the “Files changed” link to see all of the changes that were made. 
 
-Underneath that will be info about how to merge the pull request. 
-* There will be a merge button that you can click to merge in the browser
-* Or there will be a link that says “command line instructions” 
-
 </td></tr>
 
 
@@ -1026,9 +1020,15 @@ Underneath that will be info about how to merge the pull request.
 
 ### Pull Request Review Process
 
-Animation
+(Animation)
+
+Underneath that will be info about how to merge the pull request. 
+* There will be a merge button that you can click to merge in the browser
+* Or there will be a link that says “command line instructions” 
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">

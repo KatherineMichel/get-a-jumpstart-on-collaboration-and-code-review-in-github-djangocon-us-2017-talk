@@ -344,10 +344,6 @@ In order to be able to increase your level of responsibility, we need to have th
 </td></tr>
 
 
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 16](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_16.jpg)
@@ -357,10 +353,8 @@ In order to be able to increase your level of responsibility, we need to have th
 ### Working on a File in GitHub
 
 When I first started using GitHub, I would go into my own GitHub repo, click on a file, click on the pencil icon to open the file, make a change, and save it. 
-
 This is fine, but imagine if there were multiple people all working on a repo and all of them were going into files and making changes and saving them. It wouldn't be very practical. For instance, how would you give feedback? 
-
-There is a way to make changes that enables you to switch between multiple tasks the way that you need to to collaborate and do code review.
+* There is a way to make changes that enables you to switch between multiple tasks the way that you need to to collaborate and do code review.
 
 </td></tr>
 
@@ -379,11 +373,7 @@ Branches
 * They are a best practice
 * Can be used by any GitHub user
 
-When you create a repo, by default you are working within a branch named master. Say for instance that you want to make a change in the branch, you can make a copy of the entire master branch and give it a different name. Now there are two branches, in the same repo, the master branch and a feature branch. You can create an unlimited number of branches and you can switch in between them to work on them.
-
-At some point, when the feature branch author thinks it's done, a pull request will be submitted and the feature branch will become a pull request branch. If the changes are accepted, they will be merged into the master branch. The master branch will be like before, except with the changes from the branch.  
-
-But both feature branches (a.k.a. topic branches) and pull request branches are examples of branches. We can work on them in much the same way. 
+When you create a repo, by default you are working within a branch named master. 
 
 </td></tr>
 
@@ -396,7 +386,9 @@ But both feature branches (a.k.a. topic branches) and pull request branches are 
 
 ### Branches
 
-Animation
+(Animation)
+
+Say for instance that you want to make a change in the branch, you can make a copy of the entire master branch and give it a different name. Now there are two branches, in the same repo, the master branch and a feature branch. 
 
 </td></tr>
 
@@ -409,7 +401,9 @@ Animation
 
 ### Branches
 
-Animation
+(Animation)
+
+You can create an unlimited number of branches and you can switch in between them to work on them.
 
 </td></tr>
 
@@ -422,7 +416,9 @@ Animation
 
 ### Branches
 
-Animation
+(Animation)
+
+At some point, when the feature branch author thinks it's done, a pull request will be submitted and the feature branch will become a pull request branch. 
 
 </td></tr>
 
@@ -435,9 +431,17 @@ Animation
 
 ### Branches
 
-Animation
+(Animation)
+
+If the changes are accepted, they will be merged into the master branch. The master branch will be like before, except with the changes from the branch.  
+
+But both feature branches (a.k.a. topic branches) and pull request branches are examples of branches. We can work on them in much the same way. 
 
 </td></tr>
+
+
+
+
 
 
 <tr><td width="30%">

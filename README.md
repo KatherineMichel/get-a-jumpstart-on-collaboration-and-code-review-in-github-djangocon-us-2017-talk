@@ -1300,7 +1300,7 @@ My last but not least recommendation is that you become a contributor to the Dja
 Feel free to contact me.
 
 Useful Resources: 
-https://git.io/v7LGr
+https://git.io/v5fRh
 
 * Twitter handle: @KatiMichel
 * GitHub username: KatherineMichel

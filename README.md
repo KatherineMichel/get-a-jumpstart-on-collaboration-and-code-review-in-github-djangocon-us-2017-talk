@@ -19,6 +19,8 @@ Thank you!
 
 ## Table of Contents
 
+## Slides and Script
+
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Welcome](#welcome)
 - [Goal](#goal)
@@ -70,9 +72,6 @@ Thank you!
 - [Sandboxing](#sandboxing)
 - [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
-
-
-## Slides and Script
 
 <table>
 
@@ -1262,5 +1261,7 @@ https://git.io/v7LGr
 
 
 </table>
+
+## Useful Resources
 
 © 2017 Katherine Michel. All Rights Reserved.

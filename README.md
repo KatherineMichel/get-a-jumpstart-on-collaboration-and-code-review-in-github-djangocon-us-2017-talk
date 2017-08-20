@@ -1082,7 +1082,6 @@ If a change needs to be made, you can
 </td></tr>
 
 
-
 <tr><td width="30%">
 
 ![Slide 66](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_66.jpg)
@@ -1091,13 +1090,9 @@ If a change needs to be made, you can
 
 ### Pull Request Branches
 
-We are DjangoCon website maintainers and the DjangoCon US website repo is our origin. 
-
-This is why the pull request instructions are different. 
-
-As a DjangoCon US website maintainer, we are able to fetch updates made to the DjangoCon US website repo into a hidden folder named .git in our local development environment. These updates will include branches made directly to the DjangoCon US website repo, but they will not include branches made through a fork, because they come from outside of the origin. 
-
-Branches made through a fork need to be pulled individually into our local development environment.
+This is why the pull request instructions are different.
+* As a DjangoCon US website maintainer, we are able to fetch updates made to the DjangoCon US website repo into a hidden folder named .git in our local development environment. These updates will include branches made directly to the DjangoCon US website repo, but they will not include branches made through a fork, because they come from outside of the origin. 
+* Branches made through a fork need to be pulled individually into our local development environment.
 
 </td></tr>
 
@@ -1110,12 +1105,11 @@ Branches made through a fork need to be pulled individually into our local devel
 
 ### Pull Request Review
 
-The instructions on this slide can actually be used by any maintainer to work on any branch they have write permission to.  
-If a pull request has already been made, the additional commits will be automatically added to the pull request, up to the point that the pull request is merged.
+* The instructions on this slide can actually be used by any maintainer to work on any branch they have write permission to.  
+* If a pull request has already been made, the additional commits will be automatically added to the pull request, up to the point that the pull request is merged.
+* For a shared repository pull request, we use the command $ git fetch origin to fetch the updates into the .git folder. We create and checkout to a new local branch, which we give a name to, and we insert the pull request branch contents from the .git folder into the new local branch by referring to the branch as origin/<branch-name>. We can merge master to make sure the branch is up-to-date. If we make a change, we can push additional commits to the branch on GitHub. 
+* For a pull request submitted through a fork, we create a new branch off master and pull in the contents of the pull request branch from the fork. If we make a change, we can also push additional commits if we have been given permission to edit the pull request. 
 
-For a shared repository pull request, we use the command $ git fetch origin to fetch the updates into the .git folder. We create and checkout to a new local branch, which we give a name to, and we insert the pull request branch contents from the .git folder into the new local branch by referring to the branch as origin/<branch-name>. We can merge master to make sure the branch is up-to-date. If we make a change, we can push additional commits to the branch on GitHub. 
-
-For a pull request submitted through a fork, we create a new branch off master and pull in the contents of the pull request branch from the fork. If we make a change, we can also push additional commits if we have been given permission to edit the pull request. 
 
 ```bash
 $ git fetch origin
@@ -1135,10 +1129,6 @@ $ git pull https://github.com/<user-name>/<repo-name> <branch-name>
 ```bash
 $ git push https://github.com/<user-name>/<repo-name> <branch-name>
 ```
-
-<!--
-Push after changes are made and committed
--->
 
 </td></tr>
 
@@ -1178,6 +1168,8 @@ $ git push origin master
 * Recommendations
 
 </td><td>
+
+
 
 
 <tr><td width="30%">

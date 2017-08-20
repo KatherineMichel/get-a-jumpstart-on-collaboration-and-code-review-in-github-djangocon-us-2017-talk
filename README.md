@@ -17,20 +17,22 @@ Engineer
 * DEFNA (Django Events Foundation North America) Board Member
 * Project Manager
 * Designer and Developer
--->
 
-<!--
 DjangoCon US Website Homepage
 DjangoCon US Website Repo
--->
 
-<!--
+GitHub Website Landing Page
+Git command line- verifying Git is installed and the version
+
+DjangoCon US Organization Account List of Repositories
+DjangoCon US Website Repo
+
 * By the way, some tasks vary by operating system- check tabs at the top of GitHub Help pages for special OS instructions
 * Not all operating systems use the dollar sign as a command line prompt. Just be aware of that
 * <variable> is a placeholder for the real thing
 -->
 
-Script and slides for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon](https://2017.djangocon.us).
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon 2017](https://2017.djangocon.us).
 
 © 2017 Katherine Michel. All Rights Reserved.
 
@@ -97,7 +99,7 @@ Thank you!
 - [Thank You](#thank-you)
 
 
-## Script
+## Slides and Script
 
 <table>
 
@@ -200,10 +202,6 @@ I kept using Git and GitHub and getting better at it. I eventually became a Djan
 </td></tr>
 
 
-
-
-
-
 <tr><td width="30%">
 
 ![Slide 7](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_7.jpg)
@@ -213,11 +211,6 @@ I kept using Git and GitHub and getting better at it. I eventually became a Djan
 ### What are Git and GitHub?
 
 GitHub is a website built on the version control software Git.  
-
-<!--
-GitHub Website Landing Page
-Git command line- verifying Git is installed and the version
--->
 
 </td></tr>
 
@@ -249,13 +242,6 @@ GitHub is a social network. You can:
 
 But the really important part of GitHub is that users can store and work on code together in repositories
 
-For example, if you go to the DjangoCon US organization account you will see a list of repos and at the top is the DjangoCon US website repo. If you click on the hyperlink, it will open up the repo and you will see the folders and files filled with the website code and you can look through. 
-
-<!--
-DjangoCon US Organization Account List of Repositories
-DjangoCon US Website Repo
--->
-
 </td></tr>
 
 
@@ -267,7 +253,9 @@ DjangoCon US Website Repo
 
 ### GitHub: Repositories
 
-Animation
+(Animation)
+
+For example, if you go to the DjangoCon US organization account you will see a list of repos and at the top is the DjangoCon US website repo. 
 
 </td></tr>
 
@@ -280,9 +268,14 @@ Animation
 
 ### GitHub: Repositories
 
-Animation
+(Animation)
+
+If you click on the hyperlink, it will open up the repo and you will see the folders and files filled with the website code and you can look through. 
 
 </td></tr>
+
+
+
 
 
 <tr><td width="30%">

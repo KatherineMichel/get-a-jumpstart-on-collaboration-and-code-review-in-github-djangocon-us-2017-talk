@@ -1,38 +1,12 @@
 # Get a Jumpstart on Collaboration and Code Review in GitHub- DjangoCon 2017
 
-<!--
-https://2017.djangocon.us/speaking/speaker-resources/#slide-guidelines
-https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit#slide=id.g20735b3908_0_0
-
-* [Original slide deck]()
-* [Video recording]()
-
-I, you, we
-
-Engineer
-
-### About Me 
-
-* DjangoCon Website Chair
-* DEFNA (Django Events Foundation North America) Board Member
-* Project Manager
-* Designer and Developer
-
-DjangoCon US Website Homepage
-DjangoCon US Website Repo
-
-GitHub Website Landing Page
-Git command line- verifying Git is installed and the version
-
-DjangoCon US Organization Account List of Repositories
-DjangoCon US Website Repo
-
-* By the way, some tasks vary by operating system- check tabs at the top of GitHub Help pages for special OS instructions
-* Not all operating systems use the dollar sign as a command line prompt. Just be aware of that
-* <variable> is a placeholder for the real thing
--->
-
 Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon 2017](https://2017.djangocon.us).
+
+* [Original slide deck](https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit?usp=sharing)
+
+<!--
+* [Video recording]()
+-->
 
 © 2017 Katherine Michel. All Rights Reserved.
 

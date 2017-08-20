@@ -10,12 +10,10 @@
     - [Links](#links)    
     - [Bash Commands](#bash-commands)
     - [Local Development](#local-development)
+    - [Review Shared Repo Pull Request](#review-shared-repo-pull-request)
+    - [Review Forked Repo Pull Request](#review-forked-repo-pull-request)
+    - [Merge Pull Request Locally and Push to Master Branch](#merge-pull-request-locally-and-push-to-master-branch)
     
-<!--
-### Review Shared Repo Pull Request
-### Merge Pull Request Locally and Push to Master Branch
--->
-
 <hr>
 
 ## About

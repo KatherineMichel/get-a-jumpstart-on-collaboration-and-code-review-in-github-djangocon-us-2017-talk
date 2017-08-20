@@ -7,6 +7,8 @@ https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6
 
 This is a transcript of a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) will give at [DjangoCon](https://2017.djangocon.us), [PyLadies Remote](http://remote.pyladies.com), and other events.
 
+© 2017 Katherine Michel. All Rights Reserved.
+
 <!--
 * [Original slide deck]()
 * [Video recording]()
@@ -1369,3 +1371,5 @@ https://git.io/v7LGr
 
 
 </table>
+
+© 2017 Katherine Michel. All Rights Reserved.

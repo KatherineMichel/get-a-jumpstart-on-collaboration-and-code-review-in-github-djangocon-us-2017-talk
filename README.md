@@ -576,9 +576,6 @@ There will be a message notifying you that it is being forked.
 </td></tr>
 
 
-
-
-
 <tr><td width="30%">
 
 ![Slide 33](https://speakerd.s3.amazonaws.com/presentations/9c443e1c285345d6a370956f3852ae18/slide_33.jpg)
@@ -588,11 +585,6 @@ There will be a message notifying you that it is being forked.
 ### Forked Repo
 
 * The forking message will lead you back to your user account. 
-* In the list of repos in your account, you will now see an entry for the fork, which will also tell where it was forked from
-* Click on the hyperlink and it will open the repo
-* The repo URL will have my user account name in it
-
-The fork is an exact copy of the original repo at the time it was forked. I could make any changes I wanted to the fork, including deleting it, and the original repo will not be affected. 
 
 </td></tr>
 
@@ -605,7 +597,9 @@ The fork is an exact copy of the original repo at the time it was forked. I coul
 
 ### Forked Repo
 
-Animation
+(Animation)
+
+* In the list of repos in your account, you will now see an entry for the fork, which will also tell where it was forked from
 
 </td></tr>
 
@@ -618,7 +612,11 @@ Animation
 
 ### Forked Repo
 
-Animation 
+(Animation)
+
+* Click on the hyperlink and it will open the repo
+* The repo URL will have my user account name in it
+* The fork is an exact copy of the original repo at the time it was forked. I could make any changes I wanted to the fork, including deleting it, and the original repo will not be affected. 
 
 </td></tr>
 
@@ -635,6 +633,8 @@ Animation
 * Clone a repo into our local development environment, create a feature branch, make a change, push the branch to the GitHub repo we cloned from, and submit a pull request to DjangoCon US Website repo
 
 </td></tr>
+
+
 
 
 <tr><td width="30%">

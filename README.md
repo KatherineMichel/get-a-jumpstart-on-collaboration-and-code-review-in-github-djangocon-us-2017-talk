@@ -5,6 +5,7 @@
 - [About](#about)
 - [Attribution](#attribution)
 - [Slides and Script Table of Contents](#slides-and-script-table-of-contents)
+- [Slides and Script](#slides-and-script)
 - [Useful Resources](#useful-resources)
 
 ## About
@@ -26,7 +27,7 @@ The style of this transcript is heavily inspired by:
 
 Thank you!
 
-### Slides and Script Table of Contents
+## Slides and Script Table of Contents
 
 - [Get a Jumpstart on Collaboration and Code Review in GitHub](#get-a-jumpstart-on-collaboration-and-code-review-in-github)
 - [Welcome](#welcome)
@@ -80,6 +81,7 @@ Thank you!
 - [Go For It!](#go-for-it)
 - [Thank You](#thank-you)
 
+## Slides and Script
 
 <table>
 

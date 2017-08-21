@@ -19,7 +19,7 @@
 
 ## About
 
-Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon 2017](https://2017.djangocon.us).
+Slides and script for a talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at [DjangoCon 2017](https://2017.djangocon.us) called [Get a Jumpstart on Collaboration and Code Review in GitHub](https://2017.djangocon.us/talks/get-a-jumpstart-on-collaboration-and-code-review-in-github/).
 
 * [Original slide deck](https://docs.google.com/presentation/d/16LvCzF1mywdEvhXwUyJCdEuyiw05q-ITGiJEgFT6L-Y/edit?usp=sharing)
 * Video recording: Coming soon!

@@ -1,6 +1,6 @@
 # Get a Jumpstart on Collaboration and Code Review in GitHub- DjangoCon 2017
 
-# Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Attribution](#attribution)

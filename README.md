@@ -1,4 +1,4 @@
-# Get a Jumpstart on Collaboration and Code Review in GitHub- DjangoCon 2017
+# Get a Jumpstart on Collaboration and Code Review in GitHub- DjangoCon 2017 Talk
 
 ## Table of Contents
 
